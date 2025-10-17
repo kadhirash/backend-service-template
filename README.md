@@ -1,2 +1,2 @@
 # backend-service-template
-Production ready Java Spring Boot microservice template with CI/CD, Docker Compose, testing, and best practices.
+Basic Spring Boot 3.4.10 project initialized with Java 21 and a working health endpoint.
